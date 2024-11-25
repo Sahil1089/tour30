@@ -1,0 +1,32 @@
+body,html{
+    background-color: #f5fdfd;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.wish{
+    font-size: 1.4rem;
+    
+    
+    position: absolute;
+    margin-left: 40px;
+}
+@media (max-width:900px){
+    .wish{
+        position: absolute;
+    margin-left: 280px;
+    }
+}
+.container{
+    width: 98%;
+    background-color: rgb(247, 234, 234);
+    position: relative;
+    top: 15%;
+    display: flex;
+    overflow: hidden;
+    gap: 20px;
+}
+#footer{
+
+   }
